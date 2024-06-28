@@ -1,0 +1,249 @@
+{
+    "movies": [
+      {
+        "title": "Inception",
+        "genres": ["sci-fi", "thriller"],
+        "platform": "Netflix"
+      },
+      {
+        "title": "The Dark Knight",
+        "genres": ["action", "drama"],
+        "platform": "HBO"
+      },
+      {
+        "title": "Interstellar",
+        "genres": ["sci-fi", "drama"],
+        "platform": "Netflix"
+      },
+      {
+        "title": "Pulp Fiction",
+        "genres": ["crime", "drama"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "The Matrix",
+        "genres": ["sci-fi", "action"],
+        "platform": "Hulu"
+      },
+      {
+        "title": "Fight Club",
+        "genres": ["drama", "thriller"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "The Godfather",
+        "genres": ["crime", "drama"],
+        "platform": "Hulu"
+      },
+      {
+        "title": "The Shawshank Redemption",
+        "genres": ["drama"],
+        "platform": "Netflix"
+      },
+      {
+        "title": "The Avengers",
+        "genres": ["action", "sci-fi"],
+        "platform": "Disney+"
+      },
+      {
+        "title": "Titanic",
+        "genres": ["drama", "romance"],
+        "platform": "HBO"
+      },
+      {
+        "title": "Jurassic Park",
+        "genres": ["adventure", "sci-fi"],
+        "platform": "Netflix"
+      },
+      {
+        "title": "Forrest Gump",
+        "genres": ["drama", "romance"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "Gladiator",
+        "genres": ["action", "drama"],
+        "platform": "HBO"
+      },
+      {
+        "title": "The Lion King",
+        "genres": ["animation", "adventure"],
+        "platform": "Disney+"
+      },
+      {
+        "title": "Star Wars: A New Hope",
+        "genres": ["sci-fi", "adventure"],
+        "platform": "Disney+"
+      },
+      {
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "genres": ["fantasy", "adventure"],
+        "platform": "HBO"
+      },
+      {
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "genres": ["fantasy", "adventure"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "genres": ["adventure", "fantasy"],
+        "platform": "Disney+"
+      },
+      {
+        "title": "The Terminator",
+        "genres": ["action", "sci-fi"],
+        "platform": "Hulu"
+      },
+      {
+        "title": "Back to the Future",
+        "genres": ["sci-fi", "adventure"],
+        "platform": "Netflix"
+      },
+      {
+        "title": "Alien",
+        "genres": ["sci-fi", "horror"],
+        "platform": "Hulu"
+      },
+      {
+        "title": "Blade Runner",
+        "genres": ["sci-fi", "thriller"],
+        "platform": "Netflix"
+      },
+      {
+        "title": "The Silence of the Lambs",
+        "genres": ["thriller", "crime"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "Saving Private Ryan",
+        "genres": ["drama", "war"],
+        "platform": "HBO"
+      },
+      {
+        "title": "Schindler's List",
+        "genres": ["drama", "history"],
+        "platform": "Netflix"
+      },
+      {
+        "title": "The Green Mile",
+        "genres": ["drama", "fantasy"],
+        "platform": "Hulu"
+      },
+      {
+        "title": "Braveheart",
+        "genres": ["action", "drama"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "Mad Max: Fury Road",
+        "genres": ["action", "sci-fi"],
+        "platform": "HBO"
+      },
+      {
+        "title": "Guardians of the Galaxy",
+        "genres": ["sci-fi", "action"],
+        "platform": "Disney+"
+      },
+      {
+        "title": "Avatar",
+        "genres": ["sci-fi", "adventure"],
+        "platform": "Disney+"
+      },
+      {
+        "title": "Django Unchained",
+        "genres": ["drama", "western"],
+        "platform": "Hulu"
+      },
+      {
+        "title": "The Wolf of Wall Street",
+        "genres": ["drama", "comedy"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "Avengers: Endgame",
+        "genres": ["action", "sci-fi"],
+        "platform": "Disney+"
+      },
+      {
+        "title": "The Departed",
+        "genres": ["crime", "drama"],
+        "platform": "Hulu"
+      },
+      {
+        "title": "Whiplash",
+        "genres": ["drama", "music"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "Black Panther",
+        "genres": ["action", "sci-fi"],
+        "platform": "Disney+"
+      },
+      {
+        "title": "Logan",
+        "genres": ["action", "drama"],
+        "platform": "Hulu"
+      },
+      {
+        "title": "Parasite",
+        "genres": ["thriller", "drama"],
+        "platform": "Hulu"
+      },
+      {
+        "title": "Joker",
+        "genres": ["crime", "drama"],
+        "platform": "HBO"
+      },
+      {
+        "title": "12 Years a Slave",
+        "genres": ["drama", "history"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "The Social Network",
+        "genres": ["drama", "biography"],
+        "platform": "Netflix"
+      },
+      {
+        "title": "Toy Story",
+        "genres": ["animation", "adventure"],
+        "platform": "Disney+"
+      },
+      {
+        "title": "The Grand Budapest Hotel",
+        "genres": ["comedy", "drama"],
+        "platform": "HBO"
+      },
+      {
+        "title": "The Big Lebowski",
+        "genres": ["comedy", "crime"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "Gone Girl",
+        "genres": ["thriller", "drama"],
+        "platform": "HBO"
+      },
+      {
+        "title": "The Revenant",
+        "genres": ["adventure", "drama"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "La La Land",
+        "genres": ["drama", "romance"],
+        "platform": "Hulu"
+      },
+      {
+        "title": "Her",
+        "genres": ["drama", "romance"],
+        "platform": "Amazon Prime"
+      },
+      {
+        "title": "A Beautiful Mind",
+        "genres": ["drama", "biography"],
+        "platform": "HBO"
+      }
+    ]
+}
